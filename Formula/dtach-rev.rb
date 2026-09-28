@@ -1,8 +1,8 @@
 class DtachRev < Formula
   desc "Detach/reattach terminal sessions with scrollback buffer and idle callbacks"
   homepage "https://github.com/bmills23/dtach-rev"
-  url "https://github.com/bmills23/dtach-rev/archive/refs/tags/v0.9.7.tar.gz"
-  sha256 "2955503aa50c8cbb70bb128cf64a2278d19520c147a35148127fa49817511ca8"
+  url "https://github.com/bmills23/dtach-rev/archive/refs/tags/v0.9.8.tar.gz"
+  sha256 "66f247be04abe3bbb984bf7efa325c598600adec54d2d53f509c98acbdf97d39"
   license "GPL-2.0-or-later"
 
   conflicts_with "dtach", because: "both install a `dtach` binary"
